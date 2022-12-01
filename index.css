@@ -1,0 +1,66 @@
+main div{
+    text-align: center;
+    width: 500px;
+    padding: 10px;
+    margin-left:auto;
+    margin-right: auto;
+    border: 5px solid darkgray;
+}
+
+.picture{
+    width: 100px;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+main article{
+    text-align: center;
+}
+
+nav{
+    width:100%; 
+}
+
+nav ul{
+   display: inline;
+   text-align: center;
+  color:blue;
+}
+
+a:hover {
+    color: pink;
+}
+a:link{
+    color:black;
+}
+a:visited{
+    color: purple;
+}
+
+#button {
+    color: gold;
+}
+h3{
+    display: inline;
+}
+.container{
+    display: flex;
+    row-gap: 10px;
+}
+#item{
+    margin-left:auto;
+    margin-right:auto ;
+    padding: 0px;
+}
+h1{
+    font-size: 60px;
+}
+
+button{
+    background-color: yellow;
+    padding: 5px;
+    width: 500px;
+}
